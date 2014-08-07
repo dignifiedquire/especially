@@ -1,5 +1,8 @@
 # ECMAScript Spec Operations, in ECMAScript
 
+[![browser support](https://ci.testling.com/Dignifiedquire/especially.png)
+](https://ci.testling.com/Dignifiedquire/especially)
+
 Have you ever wanted to write a to-the-letter implementation of some ECMAScript spec function? Maybe you want to run tests against it; maybe you're just crazy and like self-hosting JavaScript in JavaScript. In either case, this is the package for you!
 
 **Especially** has a small-but-growing collection of meta-textual and abstract operations drawn directly from the pages of the [ECMAScript 6 draft specification](http://people.mozilla.org/~jorendorff/es6-draft.html). From common things like [Get](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-get-o-p) to dealing with [internal slots](http://people.mozilla.org/~jorendorff/es6-draft.html#sec-object-internal-methods-and-internal-slots), Especially has you covered.
